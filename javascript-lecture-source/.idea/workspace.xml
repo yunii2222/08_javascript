@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fec4e580-0fb9-4b28-98c9-aaeec06dfc0b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2cYxlByccN8wRG1hrD0s6xxpPiv" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.01_arrow-function-basic-syntax.js.executor": "Run",
+    "Node.js.01_comparision-operator.js.executor": "Run",
+    "Node.js.01_dynamically-typed-language.js.executor": "Run",
+    "Node.js.01_first-class-object.js.executor": "Run",
+    "Node.js.01_function-declaration.js.executor": "Run",
+    "Node.js.01_global-and-local-scope.js.executor": "Run",
+    "Node.js.01_immediately-invoked-function-expression.js.executor": "Run",
+    "Node.js.01_in-operator.js.executor": "Run",
+    "Node.js.01_number.js.executor": "Run",
+    "Node.js.01_object.js.executor": "Run",
+    "Node.js.01_optional-chaining-operator.js.executor": "Run",
+    "Node.js.01_short-curcuit-evaluation.js.executor": "Run",
+    "Node.js.01_var.js.executor": "Run",
+    "Node.js.02_computed-property-name.js.executor": "Run",
+    "Node.js.02_convert-to-number.js.executor": "Run",
+    "Node.js.02_for_in.js.executor": "Run",
+    "Node.js.02_function-expression.js.executor": "Run",
+    "Node.js.02_function-level-scope.js.executor": "Run",
+    "Node.js.02_let.js.executor": "Run",
+    "Node.js.02_method.js.executor": "Run",
+    "Node.js.02_nullish-coalescing-operator.js.executor": "Run",
+    "Node.js.02_recursive-function.js.executor": "Run",
+    "Node.js.02_return.js.executor": "Run",
+    "Node.js.03_function-hoisting.js.executor": "Run",
+    "Node.js.03_method-shorthand.js.executor": "Run",
+    "Node.js.03_nested-function.js.executor": "Run",
+    "Node.js.03_property-accessor.js.executor": "Run",
+    "Node.js.04_callback-function.js.executor": "Run",
+    "Node.js.04_property-change-add-remove.js.executor": "Run",
+    "Node.js.05_pure-and-impure-function.js.executor": "Run",
+    "Node.js.parameter-and-argument.js.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/lecture/08_javascript/workspace/javascript-lecture-source",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\lecture\08_javascript\workspace\javascript-lecture-source\04_function\03_arrow-function" />
+      <recent name="C:\lecture\08_javascript\workspace\javascript-lecture-source\04_function\01_function-definition" />
+      <recent name="C:\lecture\08_javascript\workspace\javascript-lecture-source\03_object-literal" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.01_global-and-local-scope.js">
+    <configuration name="01_global-and-local-scope.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/05_scope/01_scope/01_global-and-local-scope.js" working-dir="$PROJECT_DIR$/05_scope/01_scope">
+      <method v="2" />
+    </configuration>
+    <configuration name="02_function-expression.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/04_function/01_function-definition/02_function-expression.js" working-dir="$PROJECT_DIR$/04_function/01_function-definition">
+      <method v="2" />
+    </configuration>
+    <configuration name="02_function-level-scope.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/05_scope/01_scope/02_function-level-scope.js" working-dir="$PROJECT_DIR$/05_scope/01_scope">
+      <method v="2" />
+    </configuration>
+    <configuration name="02_recursive-function.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/04_function/04_various-types-of-function/02_recursive-function.js" working-dir="$PROJECT_DIR$/04_function/04_various-types-of-function">
+      <method v="2" />
+    </configuration>
+    <configuration name="03_function-hoisting.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/04_function/01_function-definition/03_function-hoisting.js" working-dir="$PROJECT_DIR$/04_function/01_function-definition">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.01_global-and-local-scope.js" />
+        <item itemvalue="Node.js.02_function-level-scope.js" />
+        <item itemvalue="Node.js.02_recursive-function.js" />
+        <item itemvalue="Node.js.03_function-hoisting.js" />
+        <item itemvalue="Node.js.02_function-expression.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fec4e580-0fb9-4b28-98c9-aaeec06dfc0b" name="Changes" comment="" />
+      <created>1708302461575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708302461575</updated>
+      <workItem from="1708302462609" duration="268000" />
+      <workItem from="1708302736427" duration="27551000" />
+      <workItem from="1708333806515" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
